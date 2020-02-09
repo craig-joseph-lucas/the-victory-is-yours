@@ -7,11 +7,11 @@
   Referrer-Policy: same-origin
 /component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.646d71b3243898a638bc.css
+/styles.ace7b8c0d62378bc503a.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-c5b56ea53058a75de5e5.js
+/styles-9707c43940857a910cb0.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-f03663a619fceb53f23d.js
+/commons-315657e787ff4ef058ab.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-02cfa543340126fe577d.js
   Cache-Control: public, max-age=31536000, immutable
@@ -19,7 +19,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-b76a965f207ca7381362.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-c32d8539328674cebd8e.js
+/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-page-template-js-9d165e0686c597a54343.js
   Cache-Control: public, max-age=31536000, immutable
@@ -29,7 +29,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-6a7659b6683156af6322.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-c2547d129d7b4aa17448.js
+/webpack-runtime-8c147fbfb43b37a546a0.js
   Cache-Control: public, max-age=31536000, immutable
 /netlify-identity-widget-8e6f024872c0d48ae324.js
   Cache-Control: public, max-age=31536000, immutable
@@ -40,252 +40,333 @@
 /sw.js
   Cache-Control: no-cache
 /the-victory-is-yours/offline-plugin-app-shell-fallback/
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js>; rel=preload; as=script
 /the-victory-is-yours/404
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
 /the-victory-is-yours/tags
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tags-list-template-js-a6fc8122a3a6473f95e0.js>; rel=preload; as=script
 /the-victory-is-yours/categories
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-categories-list-template-js-b76a965f207ca7381362.js>; rel=preload; as=script
 /the-victory-is-yours/404.html
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
 /the-victory-is-yours/posts/we-can-have-victory-with-christ
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/component---src-templates-post-template-js-c32d8539328674cebd8e.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js>; rel=preload; as=script
 /the-victory-is-yours/posts/why-we-should-be-content
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/component---src-templates-post-template-js-c32d8539328674cebd8e.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js>; rel=preload; as=script
 /the-victory-is-yours/posts/trusting-god-and-not-worrying
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/component---src-templates-post-template-js-c32d8539328674cebd8e.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js>; rel=preload; as=script
+/the-victory-is-yours/posts/characters-of-a-blessed-man
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js>; rel=preload; as=script
+/the-victory-is-yours/posts/what-to-do-when-life-falls-apart
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-post-template-js-f1a352dfa00c58c7f71a.js>; rel=preload; as=script
 /the-victory-is-yours/pages/about/
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-page-template-js-9d165e0686c597a54343.js>; rel=preload; as=script
 /the-victory-is-yours/pages/contacts/
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-page-template-js-9d165e0686c597a54343.js>; rel=preload; as=script
+/the-victory-is-yours/pages/disclaimer/
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-page-template-js-9d165e0686c597a54343.js>; rel=preload; as=script
 /the-victory-is-yours/pages/my-beliefs/
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-page-template-js-9d165e0686c597a54343.js>; rel=preload; as=script
 /the-victory-is-yours/tag/1-corinthians
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/anxiety
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
-/the-victory-is-yours/tag/daily-devotions
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+/the-victory-is-yours/tag/blessed
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/devotional
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/faith
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/fear
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/flesh
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/humble
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/matthew
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/prayer
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/proverbs
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/psalm
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/psalms
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/refuge
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/sermon-notes
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/sin
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
+/the-victory-is-yours/tag/spiritual-warfare
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/temptation
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/victory
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/tag/worry
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-tag-template-js-357f36e8b140db0bb97e.js>; rel=preload; as=script
 /the-victory-is-yours/category/christian-living
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-category-template-js-ded4cead946e394bcce1.js>; rel=preload; as=script
 /the-victory-is-yours/category/spiritual-warfare
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-category-template-js-ded4cead946e394bcce1.js>; rel=preload; as=script
 /the-victory-is-yours/
-  Link: </the-victory-is-yours/webpack-runtime-c2547d129d7b4aa17448.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/webpack-runtime-8c147fbfb43b37a546a0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
   Link: </the-victory-is-yours/app-d0aade43c33446384ebb.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/styles-c5b56ea53058a75de5e5.js>; rel=preload; as=script
-  Link: </the-victory-is-yours/commons-f03663a619fceb53f23d.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/styles-9707c43940857a910cb0.js>; rel=preload; as=script
+  Link: </the-victory-is-yours/commons-315657e787ff4ef058ab.js>; rel=preload; as=script
   Link: </the-victory-is-yours/component---src-templates-index-template-js-6a7659b6683156af6322.js>; rel=preload; as=script
