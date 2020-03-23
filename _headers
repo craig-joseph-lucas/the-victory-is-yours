@@ -127,15 +127,6 @@
   Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
   Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-89d109296087cdb7ecab.js>; rel=preload; as=script
-/posts/three-years-in-christ
-  Link: </webpack-runtime-481b916996a50607ffb7.js>; rel=preload; as=script
-  Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
-  Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-caedcaf3d4379e69fa2d.js>; rel=preload; as=script
-  Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
-  Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-89d109296087cdb7ecab.js>; rel=preload; as=script
 /pages/about/
   Link: </webpack-runtime-481b916996a50607ffb7.js>; rel=preload; as=script
   Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
@@ -145,6 +136,15 @@
   Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
   Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-34fa6c7050d759d34595.js>; rel=preload; as=script
+/posts/three-years-in-christ
+  Link: </webpack-runtime-481b916996a50607ffb7.js>; rel=preload; as=script
+  Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
+  Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-caedcaf3d4379e69fa2d.js>; rel=preload; as=script
+  Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
+  Link: </commons-f4ba4f97b41933734b16.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-89d109296087cdb7ecab.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-481b916996a50607ffb7.js>; rel=preload; as=script
   Link: </styles-a72d87baa02672d76587.js>; rel=preload; as=script
