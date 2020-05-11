@@ -102,7 +102,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-2ad48a7e233351fe0989.js>; rel=preload; as=script
-/pages/copyright/
+/pages/contacts/
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
@@ -111,7 +111,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-2ad48a7e233351fe0989.js>; rel=preload; as=script
-/pages/contacts/
+/pages/copyright/
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
@@ -129,7 +129,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-2ad48a7e233351fe0989.js>; rel=preload; as=script
-/pages/my-mission/
+/pages/privacy-policy/
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
@@ -138,7 +138,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-2ad48a7e233351fe0989.js>; rel=preload; as=script
-/pages/privacy-policy/
+/pages/my-mission/
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
@@ -210,7 +210,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-3120ca23d5e348be84ae.js>; rel=preload; as=script
-/posts/2020/03/three-years-in-christ
+/posts/2020/03/joy-in-any-circumstance
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
@@ -219,7 +219,7 @@
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-3120ca23d5e348be84ae.js>; rel=preload; as=script
-/posts/2020/03/joy-in-any-circumstance
+/posts/2020/03/three-years-in-christ
   Link: </webpack-runtime-450e333be3650258c898.js>; rel=preload; as=script
   Link: </styles-be7b700137c6d42fc3b8.js>; rel=preload; as=script
   Link: </commons-7bada2d337487be8df5f.js>; rel=preload; as=script
