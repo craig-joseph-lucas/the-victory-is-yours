@@ -36,6 +36,8 @@
 <url> <loc>https://thevictoryisyours.com/tag/devotional</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/devotionals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/easter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thevictoryisyours.com/tag/epistles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thevictoryisyours.com/tag/epistles/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/faith</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/fear</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/flesh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -50,6 +52,7 @@
 <url> <loc>https://thevictoryisyours.com/tag/heaven</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/hope</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/humble</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thevictoryisyours.com/tag/jesus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/john</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/joy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thevictoryisyours.com/tag/justification</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
