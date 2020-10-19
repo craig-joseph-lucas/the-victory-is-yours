@@ -11,7 +11,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-38f9a6b05bfae979c2bb.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-579d423062afb258a6d7.js
+/commons-c4db25f40a6995ac45a8.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-5c5cbe9d6e72ae91ca3b.js
   Cache-Control: public, max-age=31536000, immutable
@@ -44,1231 +44,1294 @@
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js>; rel=preload; as=script
 /404
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-5c5cbe9d6e72ae91ca3b.js>; rel=preload; as=script
 /tags
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tags-list-template-js-d38f2565aaca5726232c.js>; rel=preload; as=script
 /categories
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-categories-list-template-js-a564acb06b8028851cb7.js>; rel=preload; as=script
 /404.html
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-5c5cbe9d6e72ae91ca3b.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
-/pages/my-mission/
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
-/pages/privacy-policy/
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
-/pages/my-beliefs/
+/pages/about/
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
 /pages/copyright/
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
-/posts/2020/06/loving-church
+/pages/my-beliefs/
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
+/pages/my-mission/
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
+/pages/privacy-policy/
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-4fb8482969615de49379.js>; rel=preload; as=script
+/posts/2020/08/the-gifts-of-the-holy-spirit
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/07/Gods-mercy-endures-forever
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/06/God-always-delivers-his-peope
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/phases-of-salvation
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/06/worshipping-church
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/cure-for-anxiety
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/07/God-opposes-the-proud
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/05/asssurance-you-are-saved
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/Gods-sustaining-grace
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/do-not-let-your-heart-be-troubled
-  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
-  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/05/blessings-from-the-cross
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/What-a-child-of-God-follows
+/posts/2020/06/loving-church
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/04/easter-hope
+/posts/2020/06/God-always-delivers-his-peope
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/03/three-years-in-christ
+/posts/2020/05/asssurance-you-are-saved
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/06/worshipping-church
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/03/joy-in-a-divided-world
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/03/joy-in-any-circumstance
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/02/what-to-do-when-life-falls-apart
+/posts/2020/03/three-years-in-christ
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/03/welcome-to-my-site
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/01/we-can-have-victory-with-christ
+/posts/2020/04/phases-of-salvation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/01/the-godly-walk
+/posts/2020/04/cure-for-anxiety
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/04/do-not-let-your-heart-be-troubled
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/04/Gods-sustaining-grace
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/04/easter-hope
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/04/What-a-child-of-God-follows
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/02/what-to-do-when-life-falls-apart
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/01/trusting-god-and-not-worrying
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/01/the-godly-walk
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/01/we-can-have-victory-with-christ
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/01/happiness-is-a-choice
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /sword-of-the-spirit/default
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/jesus
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/suffering
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/prayer
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/holy spirit
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/grace
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit/salvation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /sword-of-the-spirit
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-sword-of-the-spirit-template-js-c2ebaf289e26c0640937.js>; rel=preload; as=script
 /tag/1-corinthians
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/1-john
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/1-timothy
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/2-corinthians
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/anxiety
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/bearing-fruit
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/blessed
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/blessings
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/communion
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/condemnnation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/conviction
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/crucification
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/daily-meditations
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/devotional
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/devotionals
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/divine-wisdom
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/doctrine
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/easter
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/epistles
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/epistles/page/1
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/exhortation
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/faith
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/fear
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/fellowship
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/flesh
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gentleness
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gifts-of-the-holy-spirit
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/glorification
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/god
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gods-glory
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gods-grace
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gods-love
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gods-mercy
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/gods-wrath
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/godliness
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/grace
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/grace/page/1
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/happiness
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/healing
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/heaven
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/holy-spirit
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/hope
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/humble
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/humility
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/james
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/jesus
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/john
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/joy
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/justification
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/love
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/matthew
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/meditations
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/mercy
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/ministry
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/moses
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/old-testament
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/paul
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/peace
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/phillipians
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/prayer
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/pride
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/prophecy
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/proverbs
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/psalm
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/psalms
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/reconcillation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/refuge
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/ressurection
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/resurrection
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/righteous
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/righteousness
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/romans
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/salvation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/sanctification
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/sermon-notes
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/serving-god
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/sin
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/spiritual-warfare
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/steadfastness
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/suffering
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/teaching
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/temptation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/the-church
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/the-cross
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/the-flesh
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
+/tag/tongue
+  Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
+  Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/trials
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/trials-and-tribulation
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/trust
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/victory
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/word-of-god
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/worry
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /tag/worship
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-16f202c887f95a796025.js>; rel=preload; as=script
 /category/christian-living
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-e18bed0eb73cb9a52060.js>; rel=preload; as=script
 /category/christian-living/page/1
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-e18bed0eb73cb9a52060.js>; rel=preload; as=script
 /category/christian-living/page/2
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-e18bed0eb73cb9a52060.js>; rel=preload; as=script
 /category/christian-living/page/3
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-e18bed0eb73cb9a52060.js>; rel=preload; as=script
 /category/spiritual-warfare
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-e18bed0eb73cb9a52060.js>; rel=preload; as=script
 /
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-index-template-js-d838cb615c31dd6982bf.js>; rel=preload; as=script
 /page/1
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-index-template-js-d838cb615c31dd6982bf.js>; rel=preload; as=script
 /page/2
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-index-template-js-d838cb615c31dd6982bf.js>; rel=preload; as=script
 /page/3
   Link: </webpack-runtime-4e395a36c934a0695dd5.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
   Link: </app-27ca6371cc6c1bddb5d0.js>; rel=preload; as=script
   Link: </styles-38f9a6b05bfae979c2bb.js>; rel=preload; as=script
-  Link: </commons-579d423062afb258a6d7.js>; rel=preload; as=script
+  Link: </commons-c4db25f40a6995ac45a8.js>; rel=preload; as=script
   Link: </component---src-templates-index-template-js-d838cb615c31dd6982bf.js>; rel=preload; as=script
