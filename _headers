@@ -84,33 +84,6 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-5c5cbe9d6e72ae91ca3b.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
-/pages/my-beliefs/
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
-/pages/my-mission/
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
 /pages/copyright/
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
@@ -129,6 +102,42 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
+/pages/my-beliefs/
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
+/pages/my-mission/
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
+/posts/2020/11/Happy-Thanksgiving-2020
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /pages/privacy-policy/
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
@@ -138,16 +147,7 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-14dd5b45a3adb2cd86fa.js>; rel=preload; as=script
-/posts/2021/11/2021-updates
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/11/Happy-Thanksgiving-2020
+/posts/2020/08/the-gifts-of-the-holy-spirit
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -165,16 +165,7 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/08/the-gifts-of-the-holy-spirit
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/06/God-always-delivers-his-peope
+/posts/2020/07/God-opposes-the-proud
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -192,15 +183,6 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/06/loving-church
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/05/blessings-from-the-cross
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
@@ -210,7 +192,16 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/05/asssurance-you-are-saved
+/posts/2020/06/loving-church
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/06/God-always-delivers-his-peope
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -246,7 +237,16 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/07/God-opposes-the-proud
+/posts/2020/05/asssurance-you-are-saved
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/02/what-to-do-when-life-falls-apart
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -273,34 +273,7 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/02/what-to-do-when-life-falls-apart
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/04/easter-hope
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/03/joy-in-any-circumstance
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/03/joy-in-a-divided-world
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -318,25 +291,25 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/03/joy-in-a-divided-world
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/03/joy-in-any-circumstance
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/03/welcome-to-my-site
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/01/trusting-god-and-not-worrying
-  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
-  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
-  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
-  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
-/posts/2020/01/the-godly-walk
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
@@ -354,7 +327,34 @@
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/01/trusting-god-and-not-worrying
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
 /posts/2020/01/happiness-is-a-choice
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2020/01/the-godly-walk
+  Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-3bcfe243bd6b6661d2d8.js>; rel=preload; as=script
+  Link: </app-3ea3b5ea14a3ae03c1a1.js>; rel=preload; as=script
+  Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
+  Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-539990a71321b56a44c7.js>; rel=preload; as=script
+/posts/2021/11/2021-updates
   Link: </webpack-runtime-c6e606508bbbf1936ccf.js>; rel=preload; as=script
   Link: </styles-50f7d2db744aa3025ccc.js>; rel=preload; as=script
   Link: </commons-e73fd4220305338c23ac.js>; rel=preload; as=script
